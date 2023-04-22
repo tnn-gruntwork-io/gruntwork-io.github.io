@@ -3,7 +3,7 @@
   description: "Customers can now receive 100% of their money back if they choose to cancel within the first 30 days of subscribing."
   commit: fb34e07043e0ea7ecb7e5ebdf1b047f7c1dd7ff5
   category: terms-of-service
-  link: https://github.com//.github.io/commit/fb34e07043e0ea7ecb7e5ebdf1b047f7c1dd7ff5
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/fb34e07043e0ea7ecb7e5ebdf1b047f7c1dd7ff5
   date: 2019-01-23
 
 - guid: 10001
@@ -11,7 +11,7 @@
   description: "We now commit to a Service Level Agreement (SLA) where we will respond to Dedicated Support requests within 2 business days."
   commit: ff51aa6fcc5a5661a658a82aa5e819cbcf0b7d61
   category: terms-of-service
-  link: https://github.com//.github.io/commit/ff51aa6fcc5a5661a658a82aa5e819cbcf0b7d61
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/ff51aa6fcc5a5661a658a82aa5e819cbcf0b7d61
   date: 2019-02-25
 
 - guid: 10002
@@ -19,7 +19,7 @@
   description: "All customers now receive access to our Community Support Tier at no additional cost."
   commit: 8eb59e4033829db0a7df7c1b59c3b690349c0b5f
   category: terms-of-service
-  link: https://github.com//.github.io/commit/8eb59e4033829db0a7df7c1b59c3b690349c0b5f
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/8eb59e4033829db0a7df7c1b59c3b690349c0b5f
   date: 2019-03-05
 
 - guid: 10003
@@ -27,7 +27,7 @@
   description: "We now offer three support tiers: Community, Professional, and Enterprise. In addition, the Terms of Service now offer terms for using Houston Pro and annual payment is now allowed. Plain language summaries and various sections were also updated for accuracy and clarity."
   commit: 9ef90212e22bf408028ca5d73bffd3aaaedd187a
   category: terms-of-service
-  link: https://github.com//.github.io/commit/9ef90212e22bf408028ca5d73bffd3aaaedd187a
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/9ef90212e22bf408028ca5d73bffd3aaaedd187a
   date: 2019-05-08
 
 - guid: 10004
@@ -35,7 +35,7 @@
   description: "Gruntwork now offers support for Google Cloud Platform (GCP)!"
   commit: c35744304c34495ac2a9a7dd1361563cdf83c20d
   category: terms-of-service
-  link: https://github.com//.github.io/commit/c35744304c34495ac2a9a7dd1361563cdf83c20d
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/c35744304c34495ac2a9a7dd1361563cdf83c20d
   date: 2019-05-09
 
 - guid: 10005
@@ -43,7 +43,7 @@
   description: "For consistency, update the termination period for all parts of the subscription to 30 days."
   commit: 9dd9abccbd20e4097fda14387e460cbafac12917
   category: terms-of-service
-  link: https://github.com//.github.io/commit/9dd9abccbd20e4097fda14387e460cbafac12917
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/9dd9abccbd20e4097fda14387e460cbafac12917
   date: 2019-10-15
 
 - guid: 10006
@@ -51,7 +51,7 @@
   description: "We've added terms for two new services: CIS compliance and professional services. We've also removed Houston for now since we are not currently accepting new Houston customers. Finally, we've cleaned up a few minor legal positions around our billing practices, termination, and handling your feedback."
   commit: b01207ceb2712983400ee3eff7e07db1a21e22dc
   category: terms-of-service
-  link: https://github.com//.github.io/commit/b01207ceb2712983400ee3eff7e07db1a21e22dc
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/b01207ceb2712983400ee3eff7e07db1a21e22dc
   date: 2020-02-10
 
 - guid: 10007
@@ -97,117 +97,117 @@
     <li> our expectation that if something goes wrong between us and we can’t resolve the issue even after trying our best, you will need to come to where we are in Maricopa County, Arizona to sue us (and the local laws in Arizona will apply); and</li>
     <li>a few minor legal positions around minimum age; deposits, billing and taxes; and export control.</li></ul>
   category: terms-of-service
-  link: https://github.com//.github.io/commit/d9aae2208bffa3d42bfb2eca2c1029e4705dd7f2
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/d9aae2208bffa3d42bfb2eca2c1029e4705dd7f2
   date: 2020-07-22
 
 - guid: 10012
   title: Update definition of an Authorized User
   description: We updated the definition of an Authorized User to more accurately reflect our concept of "access." In our current thinking, an Authorized User is someone who either directly accesses the code by reading or executing it on their local computer, or someone who indirectly accesses the code by triggering a process that reads or executes the code. We do not see this as a material expansion of the definition of an Authorized User from our original definition, only a more precise clarification.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/6d1bcb9a817698e1e4e77018818397cc834deeb7
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/6d1bcb9a817698e1e4e77018818397cc834deeb7
   date: 2020-09-10
 
 - guid: 10013
   title: Update privacy policy and Data Processing Agreement to reflect revocation of the Privacy Shield Framework
   description: Because the European Court of Justice has revoked the Privacy Shield Framework, we need to update our privacy policy and Data Processing Agreement to remove reference to it.
   category: privacy-policy
-  link: https://github.com//.github.io/commit/433dfbb
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/433dfbb
   date: 2020-09-29
 
 - guid: 10014
   title: Remove Intercom from cookie policy
   description: We've updated our cookie policy to remove Intercom, a vendor we previously used to enable real-time chat via our website.
   category: cookie-policy
-  link: https://github.com//.github.io/commit/da536301
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/da536301
   date: 2020-12-07
 
 - guid: 10015
   title: Update Privacy Policy to address our new developer portal
   description: We’ve released a new developer portal at https://app.gruntwork.io! We've updated our Privacy Policy to address any privacy and data implications that come from its release.
   category: privacy-policy
-  link: https://github.com//.github.io/commit/101df49e
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/101df49e
   date: 2021-06-03
 
 - guid: 10016
   title: Update Website Terms to address our new developer portal
   description: We’ve released a new developer portal at https://app.gruntwork.io! We've updated our Website Terms to reflect new usage guidelines that result from its release.
   category: website-terms
-  link: https://github.com//.github.io/commit/30ee2c55
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/30ee2c55
   date: 2021-06-04
 
 - guid: 10017
   title: Update Terms of Service to address our new developer portal
   description: We've released a new developer portal at https://app.gruntwork.io! We've updated our Terms of Service to reflect the new agreement between us and our customers.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/b9e838e7
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/b9e838e7
   date: 2021-06-04
 
 - guid: 10018
   title: Reflect our use of HubSpot for gruntwork.io analytics and to collect customer information as part of our CRM
   description: We've started using HubSpot (https://hubspot.com) internally, which means we are now storing customer information with a new data sub-processor. As a result, we've updated our Cookie Policy and Data Subprocessors list.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/86665f29
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/86665f29
   date: 2021-07-22
 
 - guid: 10019
   title: Added Foqal to Data Subprocessor List
   description: We are using Foqal's Slack aggregator to pull all support requests into a single view
   category: subprocessors
-  link: https://github.com//.github.io/commit/26916cd2
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/26916cd2
   date: 2021-09-01
 
 - guid: 10019
   title: Replace "fork" with "clone" in certain instances
   description: Our documentation recommend cloning our repos instead of forking them in the event you terminate your license so that you don't lose your forks once we revoke your access. This update makes our terms consistent with our docs.
   category: subprocessors
-  link: https://github.com//.github.io/commit/be2504da
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/be2504da
   date: 2021-09-08
 
 - guid: 10020
   title: Update Data Processing Agreement
   description: We've updated our Data Processing Agreement to use a more standardized set of terms and the latest Standard Contractual Clauses.
   category: data-processing-agreement
-  link: https://github.com//.github.io/commit/2dc020dd
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/2dc020dd
   date: 2021-12-14
 
 - guid: 10020
   title: Remove vestigial $500 deposit from Terms of Service
   description: In the past, we charged a one-time deposit of $500 upon signing up. We no longer do this on our current website checkout, so we have removed mention of this from our terms of service.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/d750788700f3f6e27ac4afd7da0cefd837386b1a
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/d750788700f3f6e27ac4afd7da0cefd837386b1a
   date: 2022-02-24
 
 - guid: 10021
   title: Added Our Vulnerability Disclosure Policy
   description: As a reflection of our ongoing commitment to security, and in the interest of full transparency, we’ve created a Vulnerability Disclosure Policy. This establishes a formal commitment to our customers, as well as procedures through which any security concerns may be reported to Gruntwork.
   category: vulnerability-disclosure-policy
-  link: https://github.com//.github.io/commit/2d765b5
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/2d765b5
   date: 2022-05-02
 
 - guid: 10022
   title: Removed our security alerts service
   description: Prior to this change, we emailed customers about critical security vulnerabilities. But since we began offering this service, many third parties have emerged that provide a better version of this functionality (in many cases at no cost), and customers have told us they do not receive much value from our notifications. For these reasons, we are removing this from our offering.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/4fb50cd
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/4fb50cd
   date: 2022-05-05
 
 - guid: 10023
   title: Removed bug bounty
   description: Unfortunately, our informal bug bounty greatly decreased the signal-to-noise ratio in our vulnerability reports. We remain fully committed to security and highly appreciative of any vulnerability reports made in good faith, which we continue to encourage and strive to address in a timely manner according to their urgency.
   category: vulnerability-disclosure-policy
-  link: https://github.com//.github.io/commit/f248314
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/f248314
   date: 2022-06-06
 
 - guid: 10024
   title: Simplified Reference Architecture Terms
   description: We cleaned up the headings for our Reference Architecture features and clarified some standard limitations we wanted to make explicit.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/f7c324f
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/f7c324f
   date: 2022-06-08
 
 - guid: 10025
   title: Removed Foqal from data subprocessors
   description: We formerly used Foqal to consolidate customer Slack channels for customer support, but we have built out this functionality internally using our existing data subprocessors.
   category: terms-of-service
-  link: https://github.com//.github.io/commit/a76d8fb
+  link: https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/commit/a76d8fb
   date: 2022-07-19

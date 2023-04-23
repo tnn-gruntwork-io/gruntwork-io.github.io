@@ -3161,7 +3161,7 @@ input[type="number"]::-webkit-outer-spin-button {
   display: inline-block;
 }
 
-// This is a fix for https://github.com/tnn-gruntwork-io/gruntwork-io.github.io/issues/573. For some reason, when we have
+// This is a fix for https://github.com/tnn-tnn-gruntwork-io/tnn-gruntwork-io.github.io/issues/573. For some reason, when we have
 // the table-responsive class on tables, and those tables have some interior borders, we get an unnecessary horizontal
 // scrollbar. For some crazy reason, adding a transparent 1px border to the table somehow removes that scrollbar.
 .table-responsive-border-fix {

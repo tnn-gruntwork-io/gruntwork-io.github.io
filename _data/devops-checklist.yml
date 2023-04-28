@@ -391,7 +391,7 @@
       description: |
         If all of your infrastructure is defined as code, you can create automated tests for it. The goal is to verify
         your infrastructure works as expected after every single commit, long before those infrastructure changes
-        affect prod. See <a href="https://github.com/tnn-tnn-gruntwork-io/terratest" target="_blank">Terratest</a> for more
+        affect prod. See <a href="https://github.com/tnn-gruntwork-io/terratest" target="_blank">Terratest</a> for more
         info.
 
     - title: Set up immutable infrastructure
@@ -777,7 +777,7 @@
 
     - title: Clean up unused resources
       description: |
-        Use tools such as <a href="https://github.com/tnn-tnn-gruntwork-io/cloud-nuke" target="_blank">cloud-nuke</a> and
+        Use tools such as <a href="https://github.com/tnn-gruntwork-io/cloud-nuke" target="_blank">cloud-nuke</a> and
         <a href="https://medium.com/netflix-techblog/janitor-monkey-keeping-the-cloud-tidy-and-clean-d517ad74d648" target="_blank">Janitor Monkey</a>
         to clean up unused AWS resources, such as old EC2 Instances or ELBs that no one is using any more. You can run
         these tools on a regular schedule by using your CI server or
